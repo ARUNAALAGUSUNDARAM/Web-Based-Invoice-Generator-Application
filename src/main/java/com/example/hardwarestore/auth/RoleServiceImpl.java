@@ -22,6 +22,9 @@ public class RoleServiceImpl implements RoleService {
      * If it does not exist, create it with default authorities and save it.
      *
      * @return Role object for USER
+     *
+     *
+     * aruna
      */
     @Override
     public Role getRoleUSER() {
